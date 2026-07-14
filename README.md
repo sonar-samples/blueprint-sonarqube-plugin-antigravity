@@ -1,5 +1,7 @@
 # Set up the SonarQube plugin for Antigravity
 
+> Last verified: July 2026
+
 ## TL;DR overview
 
 - The SonarQube plugin for Antigravity brings issue scanning, quality gate checks, code coverage, dependency risks, secrets scanning, and Sonar Vortex (context and constraints, plus agentic loop verification) into Antigravity through dedicated `/sonarqube:*` skills, the SonarQube MCP Server, and an *integrate* command that installs the plugin's hooks and rules.  
